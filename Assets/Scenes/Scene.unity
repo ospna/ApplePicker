@@ -157,6 +157,24 @@ Prefab:
       propertyPath: leftAndRightEdge
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: 114384990050186828, guid: 9d29b1f6ac145e84aab5bdb0c03c44e6,
+        type: 2}
+      propertyPath: applePrefab
+      value: 
+      objectReference: {fileID: 1960910859477908, guid: 2dc36a253500cef4e9d35d6f13db4224,
+        type: 2}
+    - target: {fileID: 1682455821527206, guid: 9d29b1f6ac145e84aab5bdb0c03c44e6, type: 2}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1168594354378132, guid: 9d29b1f6ac145e84aab5bdb0c03c44e6, type: 2}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1072206136583632, guid: 9d29b1f6ac145e84aab5bdb0c03c44e6, type: 2}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9d29b1f6ac145e84aab5bdb0c03c44e6, type: 2}
   m_IsPrefabParent: 0
